@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraryList>
+    <book id="1">
+        <name>The Great Gatsby</name>
+        <author>F. Scoot Fitzgerald</author>
+        <year>1925</year>
+        <avaliable>no</avaliable>
+        <customer>Robert Griffin</customer>
+    </book>
+    <book id="2">
+        <name>The Grapes of Wrath</name>
+        <author>John Steinbeck</author>
+        <year>1939</year>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </book>
+    <book id="3">
+        <name>Meet Big Brother</name>
+        <author>George Orwell</author>
+        <year>1984</year>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </book>
+    <book id="4">
+        <name>A Brief History of Time</name>
+        <author>Stephen Hawking</author>
+        <year>1988</year>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </book>
+    <book id="5">
+        <name>A Tale of Two Cities</name>
+        <author>Charles Dickens</author>
+        <year>1859</year>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </book>
+    <book id="6">
+        <name>The Lord of the Rings</name>
+        <author>J. R. R. Tolkien</author>
+        <year>1954-1955</year>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </book>
+    <book id="7">
+        <name>Le Petit Prince</name>
+        <author>Antoine de Saint-Exupery</author>
+        <year>1943</year>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </book>
+    <book id="8">
+        <name>Harry Potter and the Philosopher's Stone</name>
+        <author>J. K. Rowling</author>
+        <year>1997</year>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </book>
+    <book id="9">
+        <name>And Then There Were None</name>
+        <author>Agatha Christie</author>
+        <year>1939</year>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </book>
+    <book id="10">
+        <name>The Hobbit</name>
+        <author>J. R. R. Tolkien</author>
+        <year>1937</year>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </book>
+    <movie id="11">
+        <name>The Shawshank Redemption</name>
+        <director>Frank Darabont</director>
+        <year>1994</year>
+        <rating>9.3</rating>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </movie>
+    <movie id="12">
+        <name>The Godfather</name>
+        <director>Francis Ford Coppola</director>
+        <year>1972</year>
+        <rating>9.2</rating>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </movie>
+    <movie id="13">
+        <name>Pulp Fiction</name>
+        <director>Quentin Tarantino</director>
+        <year>1994</year>
+        <rating>8.9</rating>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </movie>
+    <movie id="14">
+        <name>Fight Club</name>
+        <director>Dacud Fincher</director>
+        <year>1999</year>
+        <rating>8.9</rating>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </movie>
+    <movie id="15">
+        <name>Forrest Gump</name>
+        <director>Robert Zemeckis</director>
+        <year>1994</year>
+        <rating>9.0</rating>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </movie>
+    <movie id="16">
+        <name>Inception</name>
+        <director>Christopher Nolan</director>
+        <year>2010</year>
+        <rating>8.7</rating>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </movie>
+    <movie id="17">
+        <name>The Green Mile</name>
+        <director>Frank Darabont</director>
+        <year>1999</year>
+        <rating>8.5</rating>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </movie>
+    <movie id="18">
+        <name>The Pianist</name>
+        <director>Roman Polanski</director>
+        <year>2002</year>
+        <rating>8.6</rating>
+        <avaliable>yes</avaliable>
+        <customer>none</customer>
+    </movie>
+</libraryList>

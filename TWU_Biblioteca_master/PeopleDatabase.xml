@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<UserList>
+
+    <customer id = "1">
+        <name>Robert Griffin</name>
+        <email>rgthrower@gmail.com</email>
+        <address>1456 N. Jefferson Street</address>
+        <phoneNumber>(312) 098-0987</phoneNumber>
+        <libNumber>000-0000</libNumber>
+        <password>iRock2001</password>
+    </customer>
+
+    <customer id = "2">
+        <name>Timothy Powers</name>
+        <email>ilikemonkeys4@gmail.com</email>
+        <address>103 N. Giffin Street</address>
+        <phoneNumber>(312) 000-0342</phoneNumber>
+        <libNumber>000-0001</libNumber>
+        <password>highfive21</password>
+    </customer>
+
+    <customer id = "3">
+        <name>Bif Gilbert</name>
+        <email>growmepretty@gmail.com</email>
+        <address>580 W. Louis Street</address>
+        <phoneNumber>(567) 2222-2222</phoneNumber>
+        <libNumber>000-0002</libNumber>
+        <password>hotsauce2cool</password>
+    </customer>
+
+    <customer id = "4">
+        <name>Thomas Morris</name>
+        <email>thisisreallyme@gmail.com</email>
+        <address>589 S. Brooks Avenue</address>
+        <phoneNumber>(312) 436-0987</phoneNumber>
+        <libNumber>000-0003</libNumber>
+        <password>donttell202</password>
+    </customer>
+
+    <librarian id = "5">
+        <name>Jillian Hall</name>
+        <email>jillybird@gmail.com</email>
+        <address>342 S. Roosevelt Avenue</address>
+        <phoneNumber>(908) 416-0324</phoneNumber>
+        <libNumber>100-0000</libNumber>
+        <password>cuttymcfutty001</password>
+    </librarian>
+
+    <librarian id = "6">
+        <name>Michelle Brooks</name>
+        <email>brookthecrook@gmail.com</email>
+        <address>85 S. Garfield Avenue</address>
+        <phoneNumber>(321) 844-0756</phoneNumber>
+        <libNumber>100-0001</libNumber>
+        <password>123me</password>
+    </librarian>
+
+</UserList>
