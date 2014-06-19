@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TWU_Biblioteca_master/lib/w3c-dom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TWU_Biblioteca_master/lib/javax.xml.parsers-1_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TWU_Biblioteca_master/lib/junit-4.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

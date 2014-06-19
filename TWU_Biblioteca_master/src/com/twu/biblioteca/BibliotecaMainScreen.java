@@ -38,7 +38,7 @@ public class BibliotecaMainScreen extends JFrame {
     protected JButton logOutButton = new JButton("Login Out");
     protected final JButton itemOwnerButton = new JButton("Book/Movie Owner");
     protected String[] userTitles = new String[] {"customer", "librarian"};
-    protected final JComboBox<String> userList = new JComboBox<String>(userTitles);
+    protected final JComboBox userList = new JComboBox(userTitles);
     protected final JTextField libNumText = new JTextField(5);
     protected final JTextField passwordText = new JTextField(5);
     protected JButton logInEnterButton = new JButton("Enter");

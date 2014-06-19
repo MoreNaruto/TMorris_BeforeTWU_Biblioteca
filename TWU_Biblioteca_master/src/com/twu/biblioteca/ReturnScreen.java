@@ -23,7 +23,7 @@ public class ReturnScreen implements Serializable {
     protected JButton enterButton = new JButton("Enter");
     protected JButton backButton = new JButton("Back");
     protected String[] categoryTitles = new String[] {"book", "movie"};
-    protected final JComboBox<String> categoryList = new JComboBox<String>(categoryTitles);
+    protected final JComboBox categoryList = new JComboBox(categoryTitles);
 
     public ReturnScreen(BibliotecaMainScreen bibliotecaMainScreen) {
         this.bibliotecaMainScreen = bibliotecaMainScreen;
